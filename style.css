@@ -14,8 +14,7 @@ ul {
 
 /* Navbar */
 .navbar-main {
-  height: 80px;
-  position: absolute;
+  line-height: 80px;
   width: 100%;
   background-color: #272635;
   border-radius: 0px;
@@ -25,14 +24,14 @@ ul {
   border: 0px;
 }
 .navbar-logo {
-  position: absolute;
-  top: 50%;
-  bottom: auto;
-  display: block;
-  transform: translateY(-50%);
+	display: block;
+	float: left;
+	line-height: 80px;
 }
 .navbar-logo a {
-	color:white
+	color:white;
+	font-size:35px;
+	font-weight: bold;
 }
 
 .navbar-menu {
@@ -136,7 +135,7 @@ ul {
 
 /* Header section */
 .first-bloc {
-	background:url("images/cox-web2.jpg");
+	background:url("images/book.jpg");
 	background-size:cover;
 	-webkit-background-size: cover;
   -moz-background-size: cover;
