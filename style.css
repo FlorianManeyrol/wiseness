@@ -189,6 +189,11 @@ width: 300px;
 	font-weight: 700;
 }
 
+.first-bloc {
+	line-height: 50px;
+	padding:30px;
+}
+
 .filter-black  {
 	display:flex;
 	justify-content:center;
