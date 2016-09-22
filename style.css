@@ -54,6 +54,19 @@ body {
 	text-decoration:none;
 }
 
+.tg {
+  float:right;
+  display:none;
+ 	width: 54px;
+	height: 50px;
+	background-color: transparent;
+	line-height:80px;
+	margin:15px 0;
+	position:relative;
+	transition: all 0.4s;
+}
+
+
 /* Responsive design */
 @media only screen and (max-width:740px) {
 	.tg {
