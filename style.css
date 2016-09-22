@@ -51,7 +51,7 @@ ul {
 
 .navbar-menu a:hover {
 	text-decoration:none;
-	color:#2BB86C;
+	color:#F61067;
 }
 
 .navbar-menu a:focus{
@@ -189,12 +189,9 @@ width: 300px;
 	font-weight: 700;
 }
 
-.first-bloc {
-	line-height: 50px;
-}
-
-.first-bloc h2{
+.first-bloc h2 {
 	padding-bottom:30px;
+	line-height: 50px;
 }
 
 .filter-black  {
