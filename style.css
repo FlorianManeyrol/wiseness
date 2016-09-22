@@ -7,6 +7,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+ul {
+	margin: 0px;
+	padding:0px;
+}
+
 /* Navbar */
 .navbar-main {
   height: 80px;
