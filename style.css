@@ -154,6 +154,28 @@ ul {
   font-size: 30px;
 }
 
+#mc_embed_signup .clear input{
+	display: inline-block;
+background-color: #5E239D;
+border: 0px;
+/* height: 40px; */
+/* width: 70px; */
+padding: 8px 20px;
+font-size: 30px;
+/* right: -17px; */
+border-radius: 0px 6px 5px 0px;
+}
+
+#mc_embed_signup input {
+/* display: inline-block; */
+border: 3px solid white;
+border-radius: 5px 0px 0px 5px;
+/* background: transparent; */
+color: #5E239D;
+padding: 0px 15px;
+width: 300px;
+}
+
 .first-bloc h1,h2,h3{
 	padding-right: 15px;
   padding-left: 15px;
