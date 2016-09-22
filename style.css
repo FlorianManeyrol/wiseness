@@ -3,7 +3,7 @@ body {
 	font-size:16px;
 	-webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:#020F1A;
+  background-color:#B1E5F2;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -17,7 +17,7 @@ ul {
   height: 80px;
   position: absolute;
   width: 100%;
-  background-color: transparent;
+  background-color: #272635;
   border-radius: 0px;
   top: 0px;
   left: 0px;
@@ -131,6 +131,47 @@ ul {
 .tg-dropdown ul li a:focus {
 	color:#2BB86C;
 	text-decoration: none;
+}
+
+
+/* Header section */
+.first-bloc {
+	background:url("images/cox-web2.jpg");
+	background-size:cover;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+	height:100vh;
+	background-repeat: no-repeat;
+}
+
+.teaser {
+	flex:0 1 auto;
+	color:white;
+}
+.teaser h3 {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  text-shadow: 2px 2px 15px #000000;
+}
+
+.filter-black  {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.first-bloc h1,h2,h3{
+	padding-right: 15px;
+  padding-left: 15px;
+  text-shadow: 2px 2px 15px #000000;
+}
+
+.first-bloc h1 {
+	font-size:50px;
+	font-weight: 700;
+
 }
 
 
