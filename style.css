@@ -31,8 +31,8 @@ ul {
   display: block;
   transform: translateY(-50%);
 }
-.navbar-logo a img {
-  height: 50px;
+.navbar-logo a {
+	color:#BDBDC2
 }
 
 .navbar-menu {
