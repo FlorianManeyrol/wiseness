@@ -1,3 +1,4 @@
+/* General */
 body {
 	font-size:16px;
 	-webkit-font-smoothing: antialiased;
@@ -6,7 +7,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-
+/* Navbar */
 .navbar-main {
   height: 80px;
   position: absolute;
@@ -51,4 +52,14 @@ body {
 
 .navbar-menu a:focus{
 	text-decoration:none;
+}
+
+/* Responsive design */
+@media only screen and (max-width:740px) {
+	.tg {
+		display:inline-block;
+	}
+	.navbar-menu {
+		display: none;
+	}
 }
