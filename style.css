@@ -26,7 +26,7 @@ ul {
 .navbar-logo {
 	display: block;
 	float: left;
-	line-height: 80px;
+	line-height: 70px;
 }
 .navbar-logo a {
 	color:white;
@@ -171,6 +171,15 @@ ul {
 	font-size:50px;
 	font-weight: 700;
 
+}
+
+
+.filter-black  {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+  background: linear-gradient(to left, rgba(8, 80, 120, 0.8), rgba(133, 216, 206, 0.8));
+  height: 100%;
 }
 
 
