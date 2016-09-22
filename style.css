@@ -191,7 +191,10 @@ width: 300px;
 
 .first-bloc {
 	line-height: 50px;
-	padding:30px;
+}
+
+.first-bloc h2{
+	padding-bottom:30px;
 }
 
 .filter-black  {
