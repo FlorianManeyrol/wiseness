@@ -162,7 +162,7 @@ ul {
 background-color: #5E239D;
 border: 0px;
 /* height: 40px; */
-/* width: 70px; */
+width: 100px;
 padding: 8px 20px;
 font-size: 30px;
 /* right: -17px; */
@@ -177,7 +177,6 @@ border-radius: 5px 0px 0px 5px;
 color: #5E239D;
 padding: 0px 15px;
 width: 300px;
-color:white;
 }
 
 .first-bloc h1,h2,h3{
