@@ -140,7 +140,7 @@ ul {
 	-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-	height:100vh;
+	height:calc(100vh - 80px);
 	background-repeat: no-repeat;
 }
 
@@ -159,6 +159,7 @@ ul {
 	display:flex;
 	justify-content:center;
 	align-items:center;
+	background: linear-gradient(to left, rgba(246, 16, 103, 0.7), rgba(94, 35, 157, 0.7));
 }
 
 .first-bloc h1,h2,h3{
